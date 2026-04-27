@@ -1,4 +1,4 @@
-# Movie Rating Prediction (CODSOFT Task 2)
+# Movie Rating Prediction 
 
 ## Overview
 This project predicts movie ratings using features like genre, director, actors, year, and runtime.
